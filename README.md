@@ -1,1 +1,1 @@
-# Trabalho-Pr-tico-de-Orienta-o-por-Objetos-Oficina-Mec-nica
+# Trabalho-Pratico-de-Orienta-o-por-Objetos-Oficina-Mecanica

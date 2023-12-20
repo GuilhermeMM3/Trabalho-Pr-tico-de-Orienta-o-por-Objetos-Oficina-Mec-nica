@@ -11,3 +11,6 @@ O projeto é organizado nas seguintes classes principais:
     Servico: Representa um serviço de manutenção, com informações como descrição, preço e horas previstas.
     OrdemDeServico: É a classe central que organiza a manutenção de um veículo, associando peças e serviços.
 
+Exemplos de Execução
+
+o progama iniciara e um menu

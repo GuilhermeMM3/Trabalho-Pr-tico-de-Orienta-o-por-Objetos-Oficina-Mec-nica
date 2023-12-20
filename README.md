@@ -55,18 +55,62 @@ Digite :78
 
 Digite :CH123456
 
+Escolha uma pessoa: 1
+
 Digite opçao 3: 3
 
-Digite :
+Digite a descriçao da peça: parafuso
 
-Digite :
+Digite o preço unitario da peça: 15.00
 
-Digite :
+Digite o codigo da peça:01
 
-Digite :
+Digite o marca da peça:peçaExemploModelo
 
-Digite :
+Digite a unidade da peça:kg
 
-Digite :
+Digite opcao 5: 5
+
+Escolha um veiculo : 1
+
+digite o nome do mecanico : Mateus 
+
+Escolha o tipo de item 1.adicionar peça: 1 
+
+Escolha uma peça:1 
+
+Escolha o tipo de item 3.concluir : 3
+
+Escolha imprimir informaçoes de uma ordem de Seviço : 6
+
+Escolha uma Ordem de Serviço: 1 
+
+Saida: 
+
+Chassi do veiculo:CH123456
+
+Cpf do proprietario:12345678
+
+data da manutencao: wed dec 20 12:00:00 brt 2023
+
+Mecanico responsavel:Mateus
+
+itens da Ordem de Servico:
+
+-parafuso | Preco unitario: 15
+
+custo Total : 15
+
+Entrada Escolha opçao 7.sair: 7
+
+Saida :progama encerrado
+
+
+
+
+
+
+
+Escolha  : 
 
 

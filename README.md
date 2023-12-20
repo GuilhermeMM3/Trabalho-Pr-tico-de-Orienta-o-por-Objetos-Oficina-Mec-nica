@@ -104,13 +104,3 @@ custo Total : 15
 Entrada Escolha opçao 7.sair: 7
 
 Saida :progama encerrado
-
-
-
-
-
-
-
-Escolha  : 
-
-

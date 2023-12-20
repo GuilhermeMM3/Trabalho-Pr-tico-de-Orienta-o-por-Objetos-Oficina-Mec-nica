@@ -29,7 +29,13 @@ Escolha Uma Opção:
 
 6.Imprimir Informações de uma Ordem de Serviço
 
-7.Sair
+7.Mostrar Veículos
+
+8.Mostrar Peças
+
+9.mostrarVeiculos
+
+10.Sair
 
 Entradas
 
@@ -101,6 +107,6 @@ itens da Ordem de Servico:
 
 custo Total : 15
 
-Entrada Escolha opçao 7.sair: 7
+Entrada Escolha opçao 10.sair: 10
 
 Saida :progama encerrado
